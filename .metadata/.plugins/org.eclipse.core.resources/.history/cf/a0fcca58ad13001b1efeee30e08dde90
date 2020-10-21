@@ -12,9 +12,8 @@ import com.wdu.service.RegisterFormService;
 @Controller
 public class RegisterFormController {
 	
-	/*
-	 * @Autowired private RegisterFormService studentRegisterFormService;
-	 */
+	@Autowired
+	private RegisterFormService studentRegisterFormService;
 	
 	@RequestMapping("/register")
 	public String getDashboard(Model model) {
