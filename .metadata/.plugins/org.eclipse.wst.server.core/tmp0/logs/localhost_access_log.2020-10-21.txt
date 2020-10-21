@@ -1,0 +1,9 @@
+127.0.0.1 - - [21/Oct/2020:11:26:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:26:46 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:29:47 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:29:59 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:30:08 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:31:51 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 200 657
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:31:51 +0530] "GET /SpringMVCHibernateCRUD/css/style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:31:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Oct/2020:11:36:21 +0530] "GET /SpringMVCHibernateCRUD/newEmployee HTTP/1.1" 200 1260

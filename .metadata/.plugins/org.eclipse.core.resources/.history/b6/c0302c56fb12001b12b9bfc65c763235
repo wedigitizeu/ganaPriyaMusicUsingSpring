@@ -1,0 +1,11 @@
+package com.wdu.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="applicationForm")
+public class applicationForm Serializable {
+	
+
+}
