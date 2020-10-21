@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import com.wdu.model.RegisterForm;
 
 @Repository
-public class RegisterFormDAOImpl {
+public class RegisterFormDAOImpl implements RegisterFormDAO {
 	
 	@Autowired
 	private SessionFactory sessionFactory;

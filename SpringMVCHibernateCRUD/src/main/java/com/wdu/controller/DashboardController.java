@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class DashboardController {
 
-	@RequestMapping("/dashboard")
+	@RequestMapping("dashboard")
 	public String getDashboard(Model model) {
 		model.addAttribute("pageHeading", "Application Form");
 		return "applicationForm";
