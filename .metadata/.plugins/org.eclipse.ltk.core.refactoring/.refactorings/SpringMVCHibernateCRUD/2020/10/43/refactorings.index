@@ -11,3 +11,5 @@
 1603290305011	Rename type 'StudentRegisterForm'
 1603290319252	Rename type 'StudentRegisterFormServiceImpl'
 1603290385753	Rename type 'StudentRegisterFormController'
+1603291128576	Rename type 'StudentRegisterFormService'
+1603291283294	Rename field 'studentRegisterFormDAO'

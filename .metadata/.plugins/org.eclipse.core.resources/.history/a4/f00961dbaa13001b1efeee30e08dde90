@@ -7,13 +7,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.wdu.service.RegisterFormService;
+import com.wdu.service.StudentRegisterFormService;
 
 @Controller
 public class RegisterFormController {
 	
 	@Autowired
-	private RegisterFormService studentRegisterFormService;
+	private StudentRegisterFormService studentRegisterFormService;
 	
 	@RequestMapping("/register")
 	public String getDashboard(Model model) {
