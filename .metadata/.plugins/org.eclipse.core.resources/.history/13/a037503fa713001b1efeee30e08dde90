@@ -1,0 +1,5 @@
+package com.wdu.dao;
+
+public interface StudentRegisterFormDAO {
+
+}

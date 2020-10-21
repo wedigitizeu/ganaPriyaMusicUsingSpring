@@ -1,0 +1,9 @@
+package com.wdu.service;
+
+import com.wdu.model.StudentRegisterForm;
+
+public interface StudentRegisterFormService {
+	
+	public void save(StudentRegisterForm sf);
+
+}

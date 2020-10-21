@@ -1,0 +1,16 @@
+package com.wdu.dao;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.wdu.model.StudentRegisterForm;
+
+public class StudentRegisterFormDAOImpl {
+	
+	@Autowired
+	private SessionFactory sessionFactory;
+	public void save(StudentRegisterForm sf) {
+		
+	}
+
+}

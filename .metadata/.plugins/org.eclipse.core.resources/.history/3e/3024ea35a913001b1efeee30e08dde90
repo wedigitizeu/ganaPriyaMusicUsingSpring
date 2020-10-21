@@ -1,0 +1,9 @@
+package com.wdu.dao;
+
+import com.wdu.model.StudentRegisterForm;
+
+public interface RegisterFormDAO {
+	
+	public void save(StudentRegisterForm sf);
+
+}

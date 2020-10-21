@@ -3,3 +3,11 @@
 1603213635290	Rename package 'com.jwt.model'
 1603213642469	Rename package 'com.jwt.dao'
 1603213957449	Delete element
+1603289228045	Rename type 'StudentRegisterFormService'
+1603289327738	Delete element
+1603290170452	Rename type 'StudentRegisterForm'
+1603290283212	Rename type 'StudentRegisterFormDAO'
+1603290293188	Rename type 'StudentRegisterFormDAOImpl'
+1603290305011	Rename type 'StudentRegisterForm'
+1603290319252	Rename type 'StudentRegisterFormServiceImpl'
+1603290385753	Rename type 'StudentRegisterFormController'
