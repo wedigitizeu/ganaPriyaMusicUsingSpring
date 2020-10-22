@@ -1,0 +1,14 @@
+package com.wdu.service;
+
+import com.wdu.model.StudentRegisterForm;
+
+public class StudentRegisterFormServiceImpl implements StudentRegisterFormService {
+
+	@Override
+	public void save(StudentRegisterForm sf) {
+		
+		
+		
+	}
+
+}

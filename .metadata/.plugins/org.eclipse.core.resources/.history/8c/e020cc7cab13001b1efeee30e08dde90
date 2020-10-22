@@ -1,0 +1,20 @@
+package com.wdu.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.wdu.dao.RegisterFormDAO;
+import com.wdu.model.RegisterForm;
+
+public class RegisterFormServiceImpl implements RegisterFormService {
+
+	@Autowired
+	RegisterFormDAO RegisterFormDAO;
+	
+	@Override
+	public void save(RegisterForm sf) {
+
+		RegisterFormDAO.save(sf);
+
+	}
+
+}

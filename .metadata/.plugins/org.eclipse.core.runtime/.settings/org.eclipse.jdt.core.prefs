@@ -1,4 +1,9 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/user/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+>>>>>>> be3ca028201903496a044cae15dd69274de3520a
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=14
 org.eclipse.jdt.core.compiler.compliance=14

@@ -1,0 +1,19 @@
+package com.wdu.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.wdu.model.StudentRegisterForm;
+
+public class StudentRegisterFormServiceImpl implements StudentRegisterFormService {
+
+	@Override
+	public void save(StudentRegisterForm sf) {
+		
+		@Autowired
+		private StudentRegisterFormService studentRegisterFormService;
+		
+		
+		
+	}
+
+}

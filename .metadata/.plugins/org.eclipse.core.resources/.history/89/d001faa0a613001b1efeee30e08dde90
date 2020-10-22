@@ -1,0 +1,5 @@
+package com.wdu.service;
+
+public class StudentRegisterFormService {
+
+}
